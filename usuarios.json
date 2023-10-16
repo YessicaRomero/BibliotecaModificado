@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5a0c6cce-ab3e-4534-a77f-b16ed23ecbea",
+    "puntos": 2,
+    "penalizado": false,
+    "nombre": "Yessica",
+    "numCel": "2525638",
+    "direccion": {
+      "calle": "Sarg Cabral",
+      "numero": 485,
+      "numeroCasa": 45
+    }
+  },
+  {
+    "id": "1956a70f-cf58-4031-889d-a5789d987c8c",
+    "puntos": 0,
+    "penalizado": false,
+    "nombre": "lila",
+    "numCel": "56565",
+    "direccion": {
+      "calle": "25",
+      "numero": 46,
+      "numeroCasa": 7
+    }
+  }
+]
